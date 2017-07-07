@@ -10,8 +10,8 @@
 
 | Aika | Sali | Luennoitsija
 |----------|------|---------------------|
-| Ma 16-18 | ??? | Olli-Pekka Mehtonen |
-| Ke 16-18 | ??? | Olli-Pekka Mehtonen |
+| Ma 16-18 | CK112 | Olli-Pekka Mehtonen |
+| Ke 16-18 | CK112 | Olli-Pekka Mehtonen |
 
 
 ## :memo: Laskarit
