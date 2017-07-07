@@ -2,7 +2,7 @@
 
 ## :mega: Ajankohtaista
 
- * Kurssisivu avautuu lähempänä kurssin alkua.
+ * Tehtävät ja materiaali lisätään lähempänä kurssin alkua.
 
 ## :notebook: Luennot
 
