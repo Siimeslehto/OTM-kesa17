@@ -8,10 +8,21 @@
 
 6kpl aikavälillä 31.7. – 16.8. Kumpulan kampus, Exactum, Gustaf Hällströminkatu 2 b
 
-| Aika | Sali | Luennoitsija
-|----------|------|---------------------|
+| Aika     | Sali  | Luennoitsija
+|----------|-------|---------------------|
 | Ma 16-18 | CK112 | Olli-Pekka Mehtonen |
 | Ke 16-18 | CK112 | Olli-Pekka Mehtonen |
+
+### Luentokalvot
+
+| #            | Päivämäärä | Linkki                      |
+|--------------|------------|-----------------------------|
+| **Luento 1** | 31.07.2017 | [lataa](luento/luento1.pdf) |
+| **Luento 2** | 02.08.2017 | [lataa](luento/luento2.pdf) |
+| **Luento 3** | 07.08.2017 | [lataa](luento/luento3.pdf) |
+| **Luento 4** | 09.08.2017 | [lataa](luento/luento4.pdf) |
+| **Luento 5** | 14.08.2017 | [lataa](luento/luento5.pdf) |
+| **Luento 6** | 16.08.2017 | [lataa](luento/luento6.pdf) |
 
 
 ## :memo: Laskarit
@@ -69,7 +80,7 @@ Verkosta löytyy paljon vaihtelevatasoista UML-materiaalia, mm:
 
 ## :trophy: Kurssikoe
 
-Opintomaksuun sisältyy opinto-ohjelmassa mainitut tenttipäivät.
+Opintomaksuun sisältyy opinto-ohjelmassa mainitut tenttipäivät:
 
 * Ke 23.8.2017 klo 17-20
 * Ma 18.9.2017 klo 17-20 
