@@ -52,13 +52,10 @@ Kurssin kokonaispistemäärä on 36. Pisteistä 22 tulee kokeesta ja 14 laskarei
 Laskareiden jaossa olevasta 14:sta pisteestä 8 tulee etukäteen tehtävien tehtävien ja 6 paikanpäällä tehtävien tehtävien perusteella. Etukäteen tehtävät käsitellään laskareissa. **Laskaripisteiden saaminen siis edellyttää laskareissa paikanpäällä käymistä.**
 
 Etukäteen tehtävistä tehtävistä kertyy kurssipisteitä seuraavasti:
-* 90% tehtävistä 8p  
-* 76% tehtävistä 7p  
-* 63% tehtävistä 6p
-* 50% tehtävistä 4p  
-* 36% tehtävistä 3p    
-* 23% tehtävistä 2p
-* 10% tehtävistä 1p
+
+| 90% | 76% | 63% | 50% | 36% | 23% | 10% |
+|-----|-----|-----|-----|-----|-----|-----|
+| 8p  | 7p  | 6p  | 4p  | 3p  | 2p  | 1p  |
 
 ## :ledger: Kirjallisuus ja materiaali
 
