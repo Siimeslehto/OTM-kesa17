@@ -2,7 +2,7 @@
 
 ## :mega: Ajankohtaista
 
- * **Aloitusluento 31.07.2017** klo 16 CK112, tulethan paikalle!
+ * **Aloitusluento 31.07.2017** klo 16:15 CK112, tulethan paikalle!
 
 ## :notebook: Luennot
 
@@ -10,8 +10,8 @@
 
 | Aika     | Sali  | Luennoitsija
 |----------|-------|---------------------|
-| Ma 16-18 | CK112 | Olli-Pekka Mehtonen |
-| Ke 16-18 | CK112 | Olli-Pekka Mehtonen |
+| Ma 16:15-18 | CK112 | Olli-Pekka Mehtonen |
+| Ke 16:15-18 | CK112 | Olli-Pekka Mehtonen |
 
 ### Luentokalvot
 
@@ -28,16 +28,16 @@ Lataa: [Luentokalvot](luennot/luennot.pdf) 1-6.
 | **5. laskari** | [Etukäteen tehtävät](tehtavat/ha5-et.md) | [Paikanpäällä tehtävät](tehtavat/ha5-pa.md) | --              |
 | **6. laskari** | [Etukäteen tehtävät](tehtavat/ha6-et.md) | [Paikanpäällä tehtävät](tehtavat/ha6-pa.md) | --              |
 
-Kurssin laskarit ovat sekoitus "traditionaalista" laskaria ja pajaa. Periaatteena on kuitenkin se, että **paikalla ollaan laskaritilaisuuden alusta loppuun.** Laskaritilaisuus kestää kolme tuntia (3x 45min) ja niitä on yhteensä 6kpl.
+Kurssin laskarit ovat sekoitus "_traditionaalista_" laskaria ja pajaa. Periaatteena on kuitenkin se, että **paikalla ollaan laskaritilaisuuden alusta loppuun.** Laskaritilaisuus kestää kolme tuntia (3x 45min) ja niitä on yhteensä 6kpl.
 
-Jokaisella viikolla on noin 3-7 etukäteen tehtävää tehtävää sekä joitain paikanpäällä tehtäviä tehtäviä.
+Jokaisella viikolla on noin 3 - 7 etukäteen tehtävää tehtävää sekä joitain paikanpäällä tehtäviä tehtäviä.
 
 |      | Päivä | Aika | Sali | Ohjaaja |
 |------|-------|------|------|---------|
-| **Ryhmä 1** | 1.8. - 17.8. | Ti ja To klo 12-15 | B221 | Olli-Pekka Mehtonen |
-| **Ryhmä 2** | 1.8. - 17.8. | Ti ja To klo 15-18 | B221 | Olli-Pekka Mehtonen |
+| **Ryhmä 1** | 1.8. - 17.8. | Ti ja To klo 12:15-15 | B221 | Olli-Pekka Mehtonen |
+| **Ryhmä 2** | 1.8. - 17.8. | Ti ja To klo 15:15-18 | B221 | Olli-Pekka Mehtonen |
 
-**Poikkeus:** **15.8. Ryhmä 1** 12-15 siirretty seuraavalle päivälle **16.8. 13-16**.
+**Poikkeus:** **15.8. Ryhmä 1** 12:15-15 siirretty seuraavalle päivälle **16.8. 13-16**.
 
 Ota yhteyttä tarvittaessa sähköpostilla osoitteeseen: etunimi.sukunimi ÄT cs.helsinki.fi
 
@@ -65,7 +65,7 @@ Kurssin arvosana määräytyy seuraavasti:
 
 ## :ledger: Kirjallisuus ja materiaali
 
-* [Luentomoniste](http://www.cs.helsinki.fi/u/mluukkai/otm2012/otm.pdf) (luvut 1-6)
+* [Luentomoniste](http://www.cs.helsinki.fi/u/mluukkai/otm2012/otm.pdf) (luvut 1 - 6)
 * [Luentokalvot](luennot/luennot.pdf)
 
 Huomaa, että osa kurssin asioista löytyy ainoastaan luentokalvoista, osa taas ainoastaan laskareiden lisämateriaalista.
@@ -85,9 +85,9 @@ Verkosta löytyy paljon vaihtelevatasoista UML-materiaalia, mm:
 
 Opintomaksuun sisältyy opinto-ohjelmassa mainitut tenttipäivät:
 
-* Ke 23.8.2017 klo 17-20
-* Ma 18.9.2017 klo 17-20 
-* Ke 18.10.2017 klo 17-20
+* Ke 23.8.2017 klo 17:00 - 20:00
+* Ma 18.9.2017 klo 17:00 - 20:00 
+* Ke 18.10.2017 klo 17:00 - 20:00
 
 **Tentaattori:** Olli-Pekka Mehtonen
 
