@@ -35,7 +35,7 @@ Jokaisella viikolla on noin 3-7 etukäteen tehtävää tehtävää sekä joitain
 |      | Päivä | Aika | Sali | Ohjaaja |
 |------|-------|------|------|---------|
 | **Ryhmä 1** | 1.8. - 17.8. | Ti ja To klo 12-15 | B221 | Olli-Pekka Mehtonen |
-| **Ryhmä 2** | 1.8. - 17.8 | Ti ja To klo 15-18 | B221 | Olli-Pekka Mehtonen |
+| **Ryhmä 2** | 1.8. - 17.8. | Ti ja To klo 15-18 | B221 | Olli-Pekka Mehtonen |
 
 **Poikkeus:** **15.8. Ryhmä 1** 12-15 siirretty seuraavalle päivälle **16.8. 13-16**.
 
