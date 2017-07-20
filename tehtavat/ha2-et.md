@@ -332,7 +332,7 @@ public class Main {
 
 ## Tehtävä 4
 
-Piirrä edellisen tehtävän luokkakaavion mukainen oliokaavio, joka kuvaa main():in viimeisellä rivillä olevan tilanteen.
+Piirrä edellisen tehtävän luokkakaavion mukainen oliokaavio, joka kuvaa <code>main()</code>:in viimeisellä rivillä olevan tilanteen.
 
 ## Tehtävä 5
 
