@@ -53,6 +53,16 @@ Etukäteen tehtävistä tehtävistä kertyy kurssipisteitä seuraavasti:
 |-----|-----|-----|-----|-----|-----|-----|
 | 8p  | 7p  | 6p  | 4p  | 3p  | 2p  | 1p  |
 
+Kurssin arvosana määräytyy seuraavasti:
+
+| Pisteet | Arvosana |
+|---------|----------|
+| 18      | 1        |
+| 21      | 2        |
+| 25      | 3        |
+| 28      | 4        |
+| 32      | 5        |
+
 ## :ledger: Kirjallisuus ja materiaali
 
 * [Luentomoniste](http://www.cs.helsinki.fi/u/mluukkai/otm2012/otm.pdf) (luvut 1-6)
