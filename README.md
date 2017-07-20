@@ -15,15 +15,7 @@
 
 ### Luentokalvot
 
-| #            | Päivämäärä | Linkki                      |
-|--------------|------------|-----------------------------|
-| **Luento 1** | 31.07.2017 | [katso](luennot/luento1.pdf) - [lataa](luennot/luento1.pdf?raw=true) |
-| **Luento 2** | 02.08.2017 | [katso](luennot/luento2.pdf) - [lataa](luennot/luento2.pdf?raw=true) |
-| **Luento 3** | 07.08.2017 | [katso](luennot/luento3.pdf) - [lataa](luennot/luento3.pdf?raw=true) |
-| **Luento 4** | 09.08.2017 | [katso](luennot/luento4.pdf) - [lataa](luennot/luento4.pdf?raw=true) |
-| **Luento 5** | 14.08.2017 | [katso](luennot/luento5.pdf) - [lataa](luennot/luento5.pdf?raw=true) |
-| **Luento 6** | 16.08.2017 | [katso](luennot/luento9.pdf) - [lataa](luennot/luento6.pdf?raw=true) |
-
+[Luentokalvot](luennot/luennot.pdf)
 
 ## :memo: Laskarit
 
