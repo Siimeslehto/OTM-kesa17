@@ -139,7 +139,7 @@ public class Ostoskori {
 
 Huom: tämä tehtävä on samantapainen kun Ohjelmoinnin jatkokurssin viikon 3 ostoskori. Älä kuitenkaan copypastaa tehtävän koodia, sillä nyt tehtävässä ostoskorissa on pieniä mutta ratkaisevia eroja ohjan ostoskoriin.
 
-Tee NetBeans-projekti ja kopioi sinne ylläolevat luokat Tuote ja Ostos ja pohja luokalle Ostoskori. Voit myös hakea luokat sisältävän valmiin Maven-muotoisen projektin [täältä](https://github.com/mluukkai/OTM2013/raw/master/koodi/TestDrivenDevelopment.zip)
+Tee NetBeans-projekti ja kopioi sinne ylläolevat luokat Tuote ja Ostos ja pohja luokalle Ostoskori. Voit myös hakea luokat sisältävän valmiin Maven-muotoisen projektin [täältä](https://github.com/Ooppa/OTM-kesa17/tree/master/koodi/TestDrivenDevelopment.zip)
 
 
 **Tee seuraavat testit ja aina jokaisen testin jälkeen testin läpäisevä koodi**

@@ -121,7 +121,7 @@ public class Kassapaate {
 
 ```
 
-Hae [täältä](https://github.com/mluukkai/OTM2015/raw/master/koodi/Unicafe.zip) zip-pakattu projekti, jossa Maksukortti ja Kassapääte ovat valmiina. Pura paketti ja avaa projekti NetBeansilla.
+Hae [täältä](https://github.com/Ooppa/OTM-kesa17/tree/master/koodi/Unicafe.zip) zip-pakattu projekti, jossa Maksukortti ja Kassapääte ovat valmiina. Pura paketti ja avaa projekti NetBeansilla.
 
 Olemme tähän asti suorittaneet testit NetBeansilla. Kokeillaan nyt miten testit voidaan suorittaa _komentoriviltä_.
 * avaa terminaali (joka löytyy avaamalla vasemman yläkulman etsintäikkuna ja kirjoittamalla _terminal_)

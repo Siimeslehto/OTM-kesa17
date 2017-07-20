@@ -29,7 +29,7 @@ Ohjelmoinnin jatkokurssin kolmannen viikon tehtävä [Numerotiedustelu](http://w
 Vaihtoehtoinen "olio-orientoitunut" tapa tehdä komentotulkki on tehdä jokaisesta erillisestä komennosta abstraktin luokan <code>Komento</code> aliluokkia.
 
 Hae olio-orientoituneen komentotulkin sisältävä koodi [NumerotiedusteluVko7.zip](/koodi/NumerotiedusteluVko7.zip?raw=true) osoitteesta
-[https://github.com/Ooppa/OTM-4-2016/tree/master/koodi/](https://github.com/Ooppa/OTM-kesa16/tree/master/koodi/)
+[https://github.com/Ooppa/OTM-kesa17/tree/master/koodi/](https://github.com/Ooppa/OTM-kesa17/tree/master/koodi/)
 
 Kokeile ohjelmaa ja selvitä itsellesi sen toimintaperiaate. Ohjelman rakennetta ja toimintaperiaatetta ei välttämättä ole aluksi ihan helppo ymmärtää.
 
@@ -62,7 +62,7 @@ Aloita sekvenssikaavio siis hetkestä jolloin kaikki komento-oliot on jo luotu j
 
 ## Tehtävä 6
 
-Hae koneellesi osoitteesta [https://github.com/Ooppa/OTM-4-2016/tree/master/koodi/](https://github.com/Ooppa/OTM-kesa16/tree/master/koodi/) löytyvä tiedosto [Sateliittiseuranta.zip](/koodi/Sateliittiseuranta.zip?raw=true) ja pura se koneellesi. Zip-pakkauksesta löytyy NetBeans-projekti, joka sisältää [lintujen sateliittiseurannan](https://www.luomus.fi/fi/satelliittiseurannat) hallinnointiin tarkoitetun sovelluksen.
+Hae koneellesi osoitteesta [https://github.com/Ooppa/OTM-kesa17/tree/master/koodi](https://github.com/Ooppa/OTM-kesa17/tree/master/koodi/) löytyvä tiedosto [Sateliittiseuranta.zip](/koodi/Sateliittiseuranta.zip?raw=true) ja pura se koneellesi. Zip-pakkauksesta löytyy NetBeans-projekti, joka sisältää [lintujen sateliittiseurannan](https://www.luomus.fi/fi/satelliittiseurannat) hallinnointiin tarkoitetun sovelluksen.
 
 Tutustu sovelluksen toimintaan.
 
