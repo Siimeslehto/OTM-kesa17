@@ -2,7 +2,7 @@
 
 ## :mega: Ajankohtaista
 
- * Tehtävät ja materiaali lisätään lähempänä kurssin alkua.
+ * **Aloitusluento 31.07.2017** klo 16 CK112, tulethan paikalle!
 
 ## :notebook: Luennot
 
@@ -15,11 +15,9 @@
 
 ### Luentokalvot
 
-[Luentokalvot](luennot/luennot.pdf)
+Lataa: [Luentokalvot](luennot/luennot.pdf) 1-6.
 
 ## :memo: Laskarit
-
-**Harjoitukset ilmestyvät tähän.**
 
 | #              | Etukäteen tehtävät                       | Paikanpäällä tehtävät                       | Mallivastaukset |
 |----------------|------------------------------------------|---------------------------------------------|-----------------|
