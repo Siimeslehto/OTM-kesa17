@@ -56,7 +56,7 @@ Etukäteen tehtävistä tehtävistä kertyy kurssipisteitä seuraavasti:
 ## :ledger: Kirjallisuus ja materiaali
 
 * [Luentomoniste](http://www.cs.helsinki.fi/u/mluukkai/otm2012/otm.pdf) (luvut 1-6)
-* Luentokalvot; lisätään myöhemmin
+* [Luentokalvot](luennot/luennot.pdf)
 
 Huomaa, että osa kurssin asioista löytyy ainoastaan luentokalvoista, osa taas ainoastaan laskareiden lisämateriaalista.
 
