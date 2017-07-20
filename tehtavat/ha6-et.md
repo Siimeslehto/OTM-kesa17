@@ -47,7 +47,7 @@ Kaikkia Komennon periviä luokkia ei kaavioon kannata merkitä.
 
 Kuvaa sekvenssikaaviona mitä tapahtuu kun edellisen tehtävän pääohjelma käynnistää sovelluksen eli kutsuu metodia <code>suorita</code> ja käyttäjä antaa komentoriville seuraavat syötteet:
 
-> <pre>
+<pre>
 1
 pekka
 040-1234567
