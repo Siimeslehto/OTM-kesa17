@@ -21,8 +21,14 @@
 
 **Harjoitukset ilmestyvät tähän.**
 
-* **Harjoituskerta 1**
- * Julkaistaan 
+| #              | Etukäteen tehtävät                       | Paikanpäällä tehtävät                       | Mallivastaukset |
+|----------------|------------------------------------------|---------------------------------------------|-----------------|
+| **1. laskari** | [Etukäteen tehtävät](tehtavat/ha1-et.md) | [Paikanpäällä tehtävät](tehtavat/ha1-pa.md) | --              |
+| **2. laskari** | [Etukäteen tehtävät](tehtavat/ha2-et.md) | [Paikanpäällä tehtävät](tehtavat/ha2-pa.md) | --              |
+| **3. laskari** | [Etukäteen tehtävät](tehtavat/ha3-et.md) | [Paikanpäällä tehtävät](tehtavat/ha3-pa.md) | --              |
+| **4. laskari** | [Etukäteen tehtävät](tehtavat/ha4-et.md) | [Paikanpäällä tehtävät](tehtavat/ha4-pa.md) | --              |
+| **5. laskari** | [Etukäteen tehtävät](tehtavat/ha5-et.md) | [Paikanpäällä tehtävät](tehtavat/ha5-pa.md) | --              |
+| **6. laskari** | [Etukäteen tehtävät](tehtavat/ha6-et.md) | [Paikanpäällä tehtävät](tehtavat/ha6-pa.md) | --              |
 
 Kurssin laskarit ovat sekoitus "traditionaalista" laskaria ja pajaa. Periaatteena on kuitenkin se, että **paikalla ollaan laskaritilaisuuden alusta loppuun.** Laskaritilaisuus kestää kolme tuntia (3x 45min) ja niitä on yhteensä 6kpl.
 
