@@ -81,6 +81,14 @@ Verkosta löytyy paljon vaihtelevatasoista UML-materiaalia, mm:
 * [Allen Holub's UML Quick Reference](http://www.holub.com/goodies/uml/) on kompakti tiivistelmä tärkeimpien UML-kaavioiden käytöstä
 * Alistair Cockburnin [käyttötapauspohja](http://www.cs.helsinki.fi/u/mluukkai/ohmas10/usecase.pdf)
 
+## :calendar: Kalenterit
+
+Voit helposti [lisätä](https://support.mozilla.org/fi/questions/1105153) luentoajat ja laskarit kalenteriisi:
+
+ * [Luentokalenteri](kalenteri/luennot.ics?raw=true)
+ * [Ryhmä 1 laskarikalenteri](kalenteri/ryhma1.ics?raw=true)
+ * [Ryhmä 2 laskarikalenteri](kalenteri/ryhma2.ics?raw=true)
+
 ## :trophy: Kurssikoe
 
 Opintomaksuun sisältyy opinto-ohjelmassa mainitut tenttipäivät:
