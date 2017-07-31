@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CREATED:20170613T113937Z
+LAST-MODIFIED:20170731T110001Z
+DTSTAMP:20170731T110001Z
+UID:laskarit1r2@k2017.otm
+SUMMARY:OTM laskarit 1: ryhmä 2
+STATUS:CONFIRMED
+ORGANIZER;CN=Olli-Pekka Mehtonen:mailto:meol@cs.helsinki.fi
+DTSTART;TZID=Europe/Helsinki:20170801T150000
+DTEND;TZID=Europe/Helsinki:20170801T180000
+DESCRIPTION:Etukäteen tehtävät: https://github.com/Ooppa/OTM-kesa17/blo
+ b/master/tehtavat/ha1-et.md\n\nPaikanpäällä tehtävät: https://github.
+ com/Ooppa/OTM-kesa17/blob/master/tehtavat/ha1-pa.md
+LOCATION:Sali B221\, Kumpulan kampus\, Exactum\, Gustaf Hällströminkatu\
+ ,  2 B
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20170731T110136Z
+LAST-MODIFIED:20170731T110137Z
+DTSTAMP:20170731T110137Z
+UID:laskarit2r2@k2017.otm
+SUMMARY:OTM laskarit 2: ryhmä 2
+STATUS:CONFIRMED
+ORGANIZER;CN=Olli-Pekka Mehtonen:mailto:meol@cs.helsinki.fi
+DTSTART;TZID=Europe/Helsinki:20170803T150000
+DTEND;TZID=Europe/Helsinki:20170803T180000
+DESCRIPTION:Etukäteen tehtävät: https://github.com/Ooppa/OTM-kesa17/blo
+ b/master/tehtavat/ha2-et.md\n\nPaikanpäällä tehtävät: https://github.
+ com/Ooppa/OTM-kesa17/blob/master/tehtavat/ha2-pa.md
+LOCATION:Sali B221\, Kumpulan kampus\, Exactum\, Gustaf Hällströminkatu\
+ ,  2 B
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20170731T110237Z
+LAST-MODIFIED:20170731T110237Z
+DTSTAMP:20170731T110237Z
+UID:laskarit4r2@k2017.otm
+SUMMARY:OTM laskarit 4: ryhmä 2
+STATUS:CONFIRMED
+ORGANIZER;CN=Olli-Pekka Mehtonen:mailto:meol@cs.helsinki.fi
+DTSTART;TZID=Europe/Helsinki:20170810T150000
+DTEND;TZID=Europe/Helsinki:20170810T180000
+DESCRIPTION:Etukäteen tehtävät: https://github.com/Ooppa/OTM-kesa17/blo
+ b/master/tehtavat/ha4-et.md\n\nPaikanpäällä tehtävät: https://github.
+ com/Ooppa/OTM-kesa17/blob/master/tehtavat/ha4-pa.md
+LOCATION:Sali B221\, Kumpulan kampus\, Exactum\, Gustaf Hällströminkatu\
+ ,  2 B
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20170731T110201Z
+LAST-MODIFIED:20170731T110201Z
+DTSTAMP:20170731T110201Z
+UID:laskarit3r2@k2017.otm
+SUMMARY:OTM laskarit 3: ryhmä 2
+STATUS:CONFIRMED
+ORGANIZER;CN=Olli-Pekka Mehtonen:mailto:meol@cs.helsinki.fi
+DTSTART;TZID=Europe/Helsinki:20170808T150000
+DTEND;TZID=Europe/Helsinki:20170808T180000
+DESCRIPTION:Etukäteen tehtävät: https://github.com/Ooppa/OTM-kesa17/blo
+ b/master/tehtavat/ha3-et.md\n\nPaikanpäällä tehtävät: https://github.
+ com/Ooppa/OTM-kesa17/blob/master/tehtavat/ha3-pa.md
+LOCATION:Sali B221\, Kumpulan kampus\, Exactum\, Gustaf Hällströminkatu\
+ ,  2 B
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20170731T110353Z
+LAST-MODIFIED:20170731T110353Z
+DTSTAMP:20170731T110353Z
+UID:laskarit5r2@k2017.otm
+SUMMARY:OTM laskarit 5: ryhmä 2
+STATUS:CONFIRMED
+ORGANIZER;CN=Olli-Pekka Mehtonen:mailto:meol@cs.helsinki.fi
+DTSTART;TZID=Europe/Helsinki:20170815T150000
+DTEND;TZID=Europe/Helsinki:20170815T180000
+DESCRIPTION:Etukäteen tehtävät: https://github.com/Ooppa/OTM-kesa17/blo
+ b/master/tehtavat/ha5-et.md\n\nPaikanpäällä tehtävät: https://github.
+ com/Ooppa/OTM-kesa17/blob/master/tehtavat/ha5-pa.md
+LOCATION:Sali B221\, Kumpulan kampus\, Exactum\, Gustaf Hällströminkatu\
+ ,  2 B
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20170731T110428Z
+LAST-MODIFIED:20170731T110428Z
+DTSTAMP:20170731T110428Z
+UID:laskarit6r2@k2017.otm
+SUMMARY:OTM laskarit 6: ryhmä 2
+STATUS:CONFIRMED
+ORGANIZER;CN=Olli-Pekka Mehtonen:mailto:meol@cs.helsinki.fi
+DTSTART;TZID=Europe/Helsinki:20170817T150000
+DTEND;TZID=Europe/Helsinki:20170817T180000
+DESCRIPTION:Etukäteen tehtävät: https://github.com/Ooppa/OTM-kesa17/blo
+ b/master/tehtavat/ha6-et.md\n\nPaikanpäällä tehtävät: https://github.
+ com/Ooppa/OTM-kesa17/blob/master/tehtavat/ha6-pa.md
+LOCATION:Sali B221\, Kumpulan kampus\, Exactum\, Gustaf Hällströminkatu\
+ ,  2 B
+SEQUENCE:4
+END:VEVENT
+END:VCALENDAR

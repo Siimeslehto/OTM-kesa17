@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CREATED:20170613T114238Z
+LAST-MODIFIED:20170613T114238Z
+DTSTAMP:20170613T114238Z
+UID:luento1@k2017.otm
+SUMMARY:OTM: Luento 1
+STATUS:CONFIRMED
+ORGANIZER;CN=Olli-Pekka Mehtonen:mailto:meol@cs.helsinki.fi
+DTSTART;TZID=Europe/Helsinki:20170731T160000
+DTEND;TZID=Europe/Helsinki:20170731T180000
+SEQUENCE:0
+LOCATION:Sali CK112\, Kumpulan kampus\, Exactum\, Gustaf Hällströminkatu
+  2 B
+DESCRIPTION:Luentokalvot osoitteessa: https://github.com/Ooppa/OTM-kesa17/
+ blob/master/luennot/luennot.pdf
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20170613T114253Z
+LAST-MODIFIED:20170613T114253Z
+DTSTAMP:20170613T114253Z
+UID:luento2@k2017.otm
+SUMMARY:OTM: Luento 2
+STATUS:CONFIRMED
+ORGANIZER;CN=Olli-Pekka Mehtonen:mailto:meol@cs.helsinki.fi
+DTSTART;TZID=Europe/Helsinki:20170802T160000
+DTEND;TZID=Europe/Helsinki:20170802T180000
+SEQUENCE:0
+LOCATION:Sali CK112\, Kumpulan kampus\, Exactum\, Gustaf Hällströminkatu
+  2 B
+DESCRIPTION:Luentokalvot osoitteessa: https://github.com/Ooppa/OTM-kesa17/
+ blob/master/luennot/luennot.pdf
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20170613T114301Z
+LAST-MODIFIED:20170613T114302Z
+DTSTAMP:20170613T114302Z
+UID:luento3@k2017.otm
+SUMMARY:OTM: Luento 3
+STATUS:CONFIRMED
+ORGANIZER;CN=Olli-Pekka Mehtonen:mailto:meol@cs.helsinki.fi
+DTSTART;TZID=Europe/Helsinki:20170807T160000
+DTEND;TZID=Europe/Helsinki:20170807T180000
+SEQUENCE:0
+LOCATION:Sali CK112\, Kumpulan kampus\, Exactum\, Gustaf Hällströminkatu
+  2 B
+DESCRIPTION:Luentokalvot osoitteessa: https://github.com/Ooppa/OTM-kesa17/
+ blob/master/luennot/luennot.pdf
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20170613T114312Z
+LAST-MODIFIED:20170613T114312Z
+DTSTAMP:20170613T114312Z
+UID:luento4@k2017.otm
+SUMMARY:OTM: Luento 4
+STATUS:CONFIRMED
+ORGANIZER;CN=Olli-Pekka Mehtonen:mailto:meol@cs.helsinki.fi
+DTSTART;TZID=Europe/Helsinki:20170809T160000
+DTEND;TZID=Europe/Helsinki:20170809T180000
+SEQUENCE:0
+LOCATION:Sali CK112\, Kumpulan kampus\, Exactum\, Gustaf Hällströminkatu
+  2 B
+DESCRIPTION:Luentokalvot osoitteessa: https://github.com/Ooppa/OTM-kesa17/
+ blob/master/luennot/luennot.pdf
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20170613T114320Z
+LAST-MODIFIED:20170613T114320Z
+DTSTAMP:20170613T114320Z
+UID:luento5@k2017.otm
+SUMMARY:OTM: Luento 5
+STATUS:CONFIRMED
+ORGANIZER;CN=Olli-Pekka Mehtonen:mailto:meol@cs.helsinki.fi
+DTSTART;TZID=Europe/Helsinki:20170814T160000
+DTEND;TZID=Europe/Helsinki:20170814T180000
+SEQUENCE:0
+LOCATION:Sali CK112\, Kumpulan kampus\, Exactum\, Gustaf Hällströminkatu
+  2 B
+DESCRIPTION:Luentokalvot osoitteessa: https://github.com/Ooppa/OTM-kesa17/
+ blob/master/luennot/luennot.pdf
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20170613T114327Z
+LAST-MODIFIED:20170613T114327Z
+DTSTAMP:20170613T114327Z
+UID:luento6@k2017.otm
+SUMMARY:OTM: Luento 6
+STATUS:CONFIRMED
+ORGANIZER;CN=Olli-Pekka Mehtonen:mailto:meol@cs.helsinki.fi
+DTSTART;TZID=Europe/Helsinki:20170816T160000
+DTEND;TZID=Europe/Helsinki:20170816T180000
+SEQUENCE:0
+LOCATION:Sali CK112\, Kumpulan kampus\, Exactum\, Gustaf Hällströminkatu
+  2 B
+DESCRIPTION:Luentokalvot osoitteessa: https://github.com/Ooppa/OTM-kesa17/
+ blob/master/luennot/luennot.pdf
+END:VEVENT
+END:VCALENDAR
