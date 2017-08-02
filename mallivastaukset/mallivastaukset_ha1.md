@@ -1,6 +1,6 @@
-#Mallivastaukset#
+# Mallivastaukset
 
-##Tehtävä 1##
+## Tehtävä 1
 
 ***Käyttäjät:***
 * Asiakas
@@ -29,17 +29,17 @@
 
 ![kaavio](h1-1.png)
 
-##Tehtävä 2##
+## Tehtävä 2
 
 Esimerkiksi:
 
-###Käyttötapaus: Ilmoittautuminen###
+### Käyttötapaus: Ilmoittautuminen
 * Tavoite: Oppilas ilmoittautuu haluamaansa ryhmään, oppilaan tiedot tuodaan opiskelijarekisteristä
 * Käyttäjät: Oppilas, Opiskelijarekisteri
 * Esiehto: Opiskelija löytyy opiskelijarekisteristä
 * Jälkiehto: Opiskelija on merkitty ilmoittautuneeksi ryhmään ja opiskelijan tiedot on tuotu opiskelijarekisteristä
 
-####Käyttötapauksen kulku####
+#### Käyttötapauksen kulku
 1. Opiskelija aloittaa ryhmien tutkimisen
 2. Järjestelmä näyttää opiskelijalle valittavissa olevat ryhmät
 3. Opiskelijalle näytetään kurssi-ilmoittautumisnäkymä
@@ -49,19 +49,19 @@ Esimerkiksi:
 7. Tunnisteen perusteella järjestelmä hakee opiskelijan tiedot opiskelijarekisteristä ja tallentaa ilmoittautumisen
 8. Järjestelmä kertoo opiskelijalle ilmoittautumisen onnistumisesta
 
-####Käyttötapauksen kulku, poikkeustapaus####
+#### Käyttötapauksen kulku, poikkeustapaus
 <ul>
 <li>4a) Opiskelija ei voi ilmoittautua ryhmään joka on täynnä</li>
 <li>7b) Opiskelijaa ei löydetä tunnisteen perusteella opiskelijarekisteristä, ilmoittautuminen epäonnistuu ja opiskelija palautetaan tunnistautumiseen</li>
 </ul>
 
-###Käyttötapaus: Vertaisarviointi###
+### Käyttötapaus: Vertaisarviointi
 * Tavoite: Oppilas tekee arvioinnin muiden ryhmäläistensä suoritumisesta kurssilla
 * Käyttäjät: Oppilas
 * Esiehto: Opiskelija on kurssilla ja kuuluu ryhmään, opiskelija on tunnistautunut järjestelmään
 * Jälkiehto: Opiskelijan vertaisarviot on tallennettu
 
-####Käyttötapauksen kulku####
+#### Käyttötapauksen kulku
 1. Opiskelija aloittaa vertaisarvionnin
 2. Järjestelmä näyttää opiskelijalle vertaisarvionäkymän
 3. Opiskelija täyttää vertaisarvionnin ja aktivoi tallennuksen
@@ -69,21 +69,21 @@ Esimerkiksi:
 5. Vertaisarviointi tallennetaan järjestelmään
 5. Järjestelmä ilmoittaa opiskelijalle tallennuksen onnistumisesta
 
-####Käyttötapauksen kulku, poikkeustapaus####
+#### Käyttötapauksen kulku, poikkeustapaus
 <ul>
 <li>4a) Vertaisarviontia ei ole tehty kaikilta osin, opiskelija palautetaan vertaisarviointinäkymään</li>
 </ul>
 
-##Tehtävä 3##
+## Tehtävä 3
 
-###Käyttäjät:###
+### Käyttäjät:
 * Opiskelija
 * Ryhmän ohjaaja
 * Opintoesimies
 * Oodi-järjestelmä
 * Kurssikirjanpitojärjestelmä
 
-###Käyttötapaukset:###
+### Käyttötapaukset:
 * Opiskelijat
   * Tunnistaudu palveluun
     * Esiehto: Ohjaaja on luonut käyttäjätunnuksen
@@ -107,7 +107,7 @@ Esimerkiksi:
     * Esiehto: Järjestelmässä on ainakin yksi ohjaaja, jolle ryhmä voidaan asettaa, kurssikirjanpitojärjestelmästä tuntee ryhmän tiedot (ohjaaja, tapaamisajat, alku- ja loppupäivämäärä)
     * Kulku: Opintoesimies valitsee ryhmän aiheen (Ohjelmointi, Tietorakenteet tai Tietokannat) ja valitsee ryhmälle ohjaajan, jonka jälkeen hän suorittaa luonnin ja ryhmän tiedot kopioidaan kurssinpitojärjestelmästä.
 
-##Tehtävä 4##
+## Tehtävä 4
 
 ![kaavio](h1-4.png)
 
