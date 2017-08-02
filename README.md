@@ -21,7 +21,7 @@ Lataa: [Luentokalvot](luennot/luennot.pdf) 1-6.
 
 | #              | Etukäteen tehtävät                       | Paikanpäällä tehtävät                       | Mallivastaukset |
 |----------------|------------------------------------------|---------------------------------------------|-----------------|
-| **1. laskari** | [Etukäteen tehtävät](tehtavat/ha1-et.md) | [Paikanpäällä tehtävät](tehtavat/ha1-pa.md) | --              |
+| **1. laskari** | [Etukäteen tehtävät](tehtavat/ha1-et.md) | [Paikanpäällä tehtävät](tehtavat/ha1-pa.md) | [Etuk.](mallivastaukset/mallivastaukset_ha1.md) / [Paik.](mallivastaukset/mallivastaukset-ha1-paikalla.pdf) |
 | **2. laskari** | [Etukäteen tehtävät](tehtavat/ha2-et.md) | [Paikanpäällä tehtävät](tehtavat/ha2-pa.md) | --              |
 | **3. laskari** | [Etukäteen tehtävät](tehtavat/ha3-et.md) | [Paikanpäällä tehtävät](tehtavat/ha3-pa.md) | --              |
 | **4. laskari** | [Etukäteen tehtävät](tehtavat/ha4-et.md) | [Paikanpäällä tehtävät](tehtavat/ha4-pa.md) | --              |
