@@ -109,3 +109,4 @@ Opas tentteihin ilmoittautumisesta: [täällä](https://www.helsinki.fi/fi/avoin
 Ehkä suositeltavimpia kaavionpiirtotyökaluja ovat verkossa toimivat:
 * [http://yuml.me/](http://yuml.me/) luokka- ja käyttötapauskaavioihin
 * [https://www.websequencediagrams.com/](https://www.websequencediagrams.com/) sekvenssikaavioihin
+* [https://www.draw.io/](https://www.draw.io/) Hyödyllinen työkalu kaikkeen
