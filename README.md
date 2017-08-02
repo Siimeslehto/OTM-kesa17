@@ -1,8 +1,9 @@
 # Ohjelmistotekniikan menetelmät - Kesä 2017
 
 ## :mega: Ajankohtaista
-
- * Avoimen sivuille korjattu oikea laskariluokka **B221**
+ 
+ * **Ensimmäiset mallivastaukset nyt sivulla**
+ * Laskarit aina luokassa **B221**
 
 ## :notebook: Luennot
 
