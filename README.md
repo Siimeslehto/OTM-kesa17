@@ -2,7 +2,7 @@
 
 ## :mega: Ajankohtaista
 
- * **Aloitusluento 31.07.2017** klo 16:15 CK112, tulethan paikalle!
+ * Avoimen sivuille korjattu oikea laskariluokka **B221**
 
 ## :notebook: Luennot
 
