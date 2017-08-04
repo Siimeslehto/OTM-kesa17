@@ -1,16 +1,16 @@
-##Tehtävä 1##
+## Tehtävä 1
 
 ![kuva1](ha2-1.png)
 
 Metodien paluuarvon tyypin voi halutessaan merkitä myös "javamaisesti": int arvo();
 
-##Tehtävä 2##
+## Tehtävä 2
 
 ![kuva1](ha2-2.png)
 
 Jos katsoo koodia, mikään ei estä laittamasta matkalaukkua yhtä aikaa moneen lastiruumaan, siksi yhteyden toisen pään osallistumisrajoite voisi olla myös *. Vastaavasti myös Matkalaukun ja Tavaran suhteen.
 
-##Tehtävä 3##
+## Tehtävä 3
 
 ![kuva1](ha2-3.png)
 
@@ -20,7 +20,7 @@ Kioskilla, Lukijalaitteella ja Lataajalaitteella on riippuvuus Matkakorttiin. La
 
 Matkakortti ei riipu eikä ole yhteydessä mihinkään luokkiin sillä koodissa ei ole viitteitä muihin luokkiin
 
-##Tehtävä 4##
+## Tehtävä 4
 
 Oliokaavio joka vastaa tilannetta mainin viimeisellä rivillä
 
