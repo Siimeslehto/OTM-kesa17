@@ -2,7 +2,7 @@
 
 ## :mega: Ajankohtaista
  
- * **Toiset mallivastaukset nyt kurssisivulla.**
+ * **Kolmannet mallivastaukset nyt kurssisivulla.**
  * Laskarit aina luokassa **B221**!
 
 ## :notebook: Luennot
@@ -16,15 +16,15 @@
 
 ### Luentokalvot
 
-Lataa: [Luentokalvot](luennot/luennot.pdf) 1-6.
+Lataa: [Luentokalvot](luennot/luennot.pdf) 1 - 6.
 
 ## :memo: Laskarit
 
 | #              | Etukäteen tehtävät                       | Paikanpäällä tehtävät                       | Mallivastaukset |
 |----------------|------------------------------------------|---------------------------------------------|-----------------|
 | **1. laskari** | [Etukäteen tehtävät](tehtavat/ha1-et.md) | [Paikanpäällä tehtävät](tehtavat/ha1-pa.md) | [Etuk.](mallivastaukset/mallivastaukset_ha1.md) / [Paik.](mallivastaukset/mallivastaukset-ha1-paikalla.pdf) |
-| **2. laskari** | [Etukäteen tehtävät](tehtavat/ha2-et.md) | [Paikanpäällä tehtävät](tehtavat/ha2-pa.md) | [Etuk.](mallivastaukset/mallivastaukset_ha2.md) / [Paik.](mallivastaukset/mallivastaukset_ha2-paikalla.md)              |
-| **3. laskari** | [Etukäteen tehtävät](tehtavat/ha3-et.md) | [Paikanpäällä tehtävät](tehtavat/ha3-pa.md) | --              |
+| **2. laskari** | [Etukäteen tehtävät](tehtavat/ha2-et.md) | [Paikanpäällä tehtävät](tehtavat/ha2-pa.md) | [Etuk.](mallivastaukset/mallivastaukset_ha2.md) / [Paik.](mallivastaukset/mallivastaukset_ha2-paikalla.md) |
+| **3. laskari** | [Etukäteen tehtävät](tehtavat/ha3-et.md) | [Paikanpäällä tehtävät](tehtavat/ha3-pa.md) | [Etuk.](mallivastaukset/mallivastaukset_ha3.md) / [Paik.](mallivastaukset/mallivastaukset-ha3-paikalla.pdf) |
 | **4. laskari** | [Etukäteen tehtävät](tehtavat/ha4-et.md) | [Paikanpäällä tehtävät](tehtavat/ha4-pa.md) | --              |
 | **5. laskari** | [Etukäteen tehtävät](tehtavat/ha5-et.md) | [Paikanpäällä tehtävät](tehtavat/ha5-pa.md) | --              |
 | **6. laskari** | [Etukäteen tehtävät](tehtavat/ha6-et.md) | [Paikanpäällä tehtävät](tehtavat/ha6-pa.md) | --              |
@@ -98,7 +98,7 @@ Opintomaksuun sisältyy opinto-ohjelmassa mainitut tenttipäivät:
 * Ma 18.9.2017 klo 17:00 - 20:00 
 * Ke 18.10.2017 klo 17:00 - 20:00
 
-**Tentaattori:** Olli-Pekka Mehtonen
+**Tentaattori/Kuulustelija:** Olli-Pekka Mehtonen
 
 Opas tentteihin ilmoittautumisesta: [täällä](https://www.helsinki.fi/fi/avoin-yliopisto/opiskelu/opintojen-aikana/tentit).
 
