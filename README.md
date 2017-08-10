@@ -2,7 +2,7 @@
 
 ## :mega: Ajankohtaista
  
- * **Kolmannet mallivastaukset nyt kurssisivulla.**
+ * **Ensimmäiseen tenttiin ilmoittautuminen päättyy sunnuntaina!**
  * Laskarit aina luokassa **B221**!
 
 ## :notebook: Luennot
